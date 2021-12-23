@@ -35,7 +35,7 @@ div {
 
 
 <div>
-    <form action="https://formsubmit.co/asreehan4ugmail.com" method="POST">
+    <form action="https://formsubmit.co/asreehan4u@gmail.com" method="POST">
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
